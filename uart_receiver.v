@@ -1,8 +1,8 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Copyright (c) 2022 Rishabh Jain
+// Copyright (c) 2023 Rishabh Jain
 // ///////////////////////////////////////////////////////////////////////////////
-// Create Date: 28.05.2022 23:24:28
+// Create Date: 28.07.2023 23:24:28
 // Design Name: Uart Receiver
 // Module Name: uart_rx
 // Project Name: UART using Verilog
